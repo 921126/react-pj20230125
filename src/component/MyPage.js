@@ -10,7 +10,6 @@ const MyPage = () => {
     //     nav('/');
     // }
 
-
     // replace={true}를 설정하면 기록을 남기지않는다. (url접속 히스토리?)
     let loginYN = false; //로그인여부
     if(loginYN === false){
